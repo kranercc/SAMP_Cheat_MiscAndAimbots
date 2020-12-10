@@ -1,2 +1,4 @@
 # SAMP_Cheat_MiscAndAimbots
-tbd
+
+
+Over 2k lines of code, idk, it was fun to write
